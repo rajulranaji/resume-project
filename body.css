@@ -1,0 +1,135 @@
+body{
+    background-image:url("waookapil.jpg");
+}
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+  @import url('https://fonts.googleapis.com/css2?family=Julee&display=swap');
+  /* .progressbar{
+        /* background-color: red; */
+        /* width:75rem;
+      } */
+      
+      /* Force indeterminate bars to have zero width */
+      .container2{
+    display: flex;
+}
+.part1 {
+    color:black;
+    display: flex;
+    text-align: start;
+    margin-right: -51rem;
+    font-size: 16px;
+    margin-top: -5rem;
+    
+}
+.part1 h{
+    margin-top: 7rem;
+    margin-left: 2rem;
+    height: 23rem;
+    font-size: 21px;
+    font-family: 'Roboto', sans-serif;
+    color: black;
+    margin-top: 9rem;
+    /* text-shadow: #33a282 1px 1px; */
+}
+.video1 p{
+    font-family: 'Roboto', sans-serif;
+}
+.boxs {
+    margin-top: 12rem;
+    margin-left: -11rem;
+}
+.part2{
+    display: flex;
+    justify-content: center;
+}
+.part2 h1{
+    color: black;
+    display: flex;
+    justify-content: center;
+    margin-top: -50rem;
+    margin-left: 24rem;
+    font-size: 32px;
+    width: 26rem;
+    font-family: 'Roboto', sans-serif;
+    /* text-shadow: #33a282 1px 1px; */
+}
+.contant2{
+    display: flex;
+}
+.sem1{
+    margin-top: -45rem;
+    /* border: dotted #0f1113; */
+    height: fit-content;
+    margin-left: -9rem;
+    margin-right: 29rem;
+}
+.sem1 h2{
+    margin-top: 0rem;
+}
+.sem1 p{
+    margin-top: -1rem;
+}
+.container_sen2{
+    margin-left: -9rem;
+margin-right: 29rem;
+}
+.sem2{  
+    /* border: dotted; */
+    margin-top: 1rem;
+  }
+  .sem2 h3{
+    margin-top: 0rem;
+    font-size: 26px;
+  }
+#sem2p{
+    margin-top: -26px;
+}
+.sem3{
+    margin-left: -9rem;
+/* font-size: ; */
+margin-top: -1rem;
+margin-right: 29rem;
+}
+.sem3 h4{
+    font-size: 26px;
+}
+#sem3p{
+    margin-top: -2rem;
+}
+.sem4{
+    margin-left: -9rem;
+    /* font-size: ; */
+    margin-top: -1rem;
+    margin-right: 29rem;
+}
+#sem4p{
+    margin-top: -44px;
+}
+.sem4 h5{
+    font-size: 26px;
+}
+.sem5{
+    margin-left: -9rem;
+    /* font-size: ; */
+    margin-top: -2rem;
+    margin-right: 29rem;
+}
+#sem5p{
+    margin-top: -3rem;
+}
+.sem5 h6{
+    font-size: 26px;
+}
+#hr1{
+    margin-top: 1rem;
+}
+.container_3{
+    text-align: center;
+margin-left: 28rem;
+margin-top: -53rem;
+}
+.sem1pro{
+    /* display: flex;
+    text-align: center; */
+}
